@@ -1,0 +1,7 @@
+{
+  "name": "Mapa Emocional",
+  "description": "Herramienta de evaluación inicial y reflexión personal desde el enfoque de Biodescodificación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
